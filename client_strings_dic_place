@@ -2499,62 +2499,62 @@
   <string>
     <id>1060951</id>
     <name>STR_DIC_W_LF2B_SZ_C2_2</name>
-    <body>Stone Mason Tent;A camp in the Dirmoi Shrine.</body>
+    <body>.ﻱﻮﻣﺮﻳﺩ ﺢﻳﺮﺿ ﻲﻓ ﺮﻜﺴﻌﻣ;ﻥﻮﺳﺎﻣ ﺭﺎﺠﺣﺍ ﺔﻤﻴﺧ</body>
   </string>
   <string>
     <id>1060952</id>
     <name>STR_DIC_W_LF2B_SZ_C3_1</name>
-    <body>Bounty Hunter Campsite;A bounty hunters' campsite near Fregion's Flame.</body>
+    <body>.ﻦﻴﺠﻳﺮﻓ ﻰﻠﻌﺷ ﻦﻣ ﺏﺮﻘﻟﺎﺑ ﻦﻳﺩﺎﻴﺼﻟﺍ ﻢﻴﻴﺨﺗ ﻊﻗﻮﻣ;ﺰﺋﺍﻮﺠﻟﺍ ﻱﺩﺎﻴﺻ ﻢﻴﺨﻣ</body>
   </string>
   <string>
     <id>1060953</id>
     <name>STR_DIC_W_LF2B_SZ_C4_1</name>
-    <body>Black Rock Hot Spring;A hot spring to the north of The Stalking Grounds.</body>
+    <body>.ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺃ ﻦﻣ ﻝﺎﻤﺸﻟﺍ ﻰﻟﺇ ﻦﺧﺎﺳ ﻉﻮﺒﻨﻳ;ﺩﻮﺳﻻﺍ ﻙﻭﺭ ﻊﻴﺑﺎﻨﻳ</body>
   </string>
   <string>
     <id>1060954</id>
     <name>STR_DIC_W_LF2B_SZ_C4_2</name>
-    <body>Calydon Cavern House;A cavern of Calydons in The Stalking Grounds.</body>
+    <body>.ﺞﻨﻴﻛﻮﺘﺳ ﺽﺭﺃ ﻲﻓ ﻊﻘﻳ ﻥﻭﺪﻴﻟﺎﻛ ﻒﻬﻛ;ﻥﻭﺪﻴﻟﺎﻛ ﻒﻬﻛ ﻝﺰﻨﻣ</body>
   </string>
   <string>
     <id>1060955</id>
     <name>STR_DIC_W_LF2B_SZ_D_Exit_00</name>
-    <body>Marla Cave Entrance;The entrance to Marla Cave. It can be reached from the Dirmoi Valley.</body>
+    <body>.ﻱﻮﻣﺮﻳﺩ ﻱﺩﺍﻭ ﻦﻣ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ .ﻻﺭﺎﻣ ﻒﻬﻛ ﻞﺧﺪﻣ;ﻻﺭﺎﻣ ﻒﻬﻛ ﻞﺧﺪﻣ</body>
   </string>
   <string>
     <id>1060956</id>
     <name>STR_DIC_W_LF2B_SZ_D_Exit_01</name>
-    <body>Marla Cave Exit;The exit from Marla Cave. It leads to the Theobomos Stronghold.</body>
+    <body>.ﺱﺎﻣﻮﺑﻭﺍ ﻦﺼﺣ ﻰﻟﺇ ﻱﺩﺆﻳ .ﻻﺭﺎﻣ ﻒﻬﻛ ﻦﻣ ﺝﺮﺨﻤﻟﺍ؛ﻻﺭﺎﻣ ﻒﻬﻛ ﺝﺮﺨﻣ</body>
   </string>
   <string>
     <id>1060957</id>
     <name>STR_DIC_W_LF2B_SZ_C5_2</name>
-    <body>Gust Valley;A place that can be reached by gliding from the Calydon Village and over a deep valley.</body>
+    <body>ﻖﻴﻤﻌﻟﺍ ﻱﺩﺍﻮﻟﺍ ﻰﻠﻋﻭ ﻥﻭﺪﻴﻟﺎﻛ ﺔﻳﺮﻗ ﻖﻳﺮﻃ ﻦﻋ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ﻥﺎﻜﻣ;ﺔﻔﺻﺎﻌﻟﺍ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061000</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_All</name>
-    <body>Nochsana Training Camp;A Balaur training camp in the Abyss, accessible through the [%dic:STR_DIC_OBJ_AB1_Corridor_Q3702].</body>
+    <body>ﻝﻼﺧ ﻦﻣ ﻪﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ ، ﺔﻳﻭﺎﻬﻟﺍ ﻲﻓ ﺭﻮﻟﺎﺒﻟﺍ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ;ﺎﻧﺎﺴﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ [%dic:STR_DIC_OBJ_AB1_Corridor_Q3702].</body>
   </string>
   <string>
     <id>1061001</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_A</name>
-    <body>Nochsana Training Fortress;A fortress deep inside the Nochsana Training Camp.</body>
+    <body>.ﺎﻧﺎﺴﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﺮﻜﺴﻌﻣ ﻞﺧﺍﺩ ﻖﻴﻤﻋ ﻦﺼﺣ;ﺎﻧﺎﺴﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﻦﺼﺣ.</body>
   </string>
   <string>
     <id>1061002</id>
     <name>STR_DIC_W_IDAb1_MiniCastle_SZ_B</name>
-    <body>Nochsana Fortress Gate;A huge castle gate protecting the Nochsana Training Fortress.</body>
+    <body>.ﺎﻧﺎﺴﺸﺗﻮﻧ ﺐﻳﺭﺪﺗ ﺔﻌﻠﻗ ﻲﻤﺤﺗ ﺔﻤﺨﺿ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ;ﺎﻧﺎﺴﺸﺗﻮﻧ ﺔﻌﻠﻗ ﺔﺑﺍﻮﺑ</body>
   </string>
   <string>
     <id>1061004</id>
     <name>STR_DIC_W_IDLF1_SZ_06</name>
-    <body>The Drana Fields;The former Kabarah Strip Mine, converted into a Drana mine by the Anuhart Legion.</body>
+    <body>.ﺕﺭﺎﻫﻮﻧﺃ ﻖﻠﻴﻓ ﻞﺒﻗ ﻦﻣ ﻢﺠﻨﻣ ﻰﻟﺇ ﻝﻮﺤﺗ,ﺎﻘﺑﺎﺳ ﺐﻳﺮﺘﺳ ﺍﺭﺎﺑﺎﻛ ﻢﺠﻨﻣ;ﺎﻧﺍﺩ ﻝﻮﻘﺣ</body>
   </string>
   <string>
     <id>1061005</id>
     <name>STR_DIC_W_Ab1_SZ_1121_2</name>
-    <body>Nobelium Fragment;A small floating island to the south of Primum Landing. Guardians and administration officers with special missions are stationed on the island.</body>
+    <body>ﺓﺮﻳﺰﺠﻟﺍ ﻲﻓ ﺔﺻﺎﺨﻟﺍ ﺕﺍﻮﻘﻟﺍ ﻊﻣ ﺓﺭﺍﺩﻹﺍ ﻁﺎﺒﺿﻭ ﺱﺍﺮﺤﻟﺍ ﺰﻛﺮﻤﺘﻳ .ﻡﻭﺮﻴﻣﺮﺑ ﻰﺳﺮﻣ ﻦﻣ ﺏﻮﻨﺠﻟﺍ ﻰﻟﺇ ﺔﻤﺋﺎﻋ ﺓﺮﻴﻐﺻ ﺓﺮﻳﺰﺟ;ﻢﻴﻠﻴﺑﻮﻧ ﺎﻳﺎﻈﺷ.</body>
   </string>
   <string>
     <id>1061006</id>
@@ -2564,7 +2564,7 @@
   <string>
     <id>1061007</id>
     <name>STR_DIC_W_IDLF1_SZ_IDLF1_08</name>
-    <body>Timolia Mine;An abandoned mine on the foot of Mt. Timolia. It is currently occupied by the Anuhart Legion, and there is an Abyss Gate leading to the Anuhart Headquarters.</body>
+    <body>.ﺕﺭﺎﻫﻮﻧﺍ ﺮﻘﻣ ﻰﻟﺇ ﺔﻳﺩﺆﻣ ﺲﻴﺑﺃ ﺔﺑﺍﻮﺑ ﻙﺎﻨﻫﻭ ، ﺕﺭﺎﻫﻮﻧﺍ ﻖﻠﻴﻓ ﻥﻵﺍ ﺎﻬﻠﺘﺤﻳ .ﺎﻴﻟﻮﻤﻴﺗ .ﻞﺒﺟ ﺢﻔﺳ ﻰﻠﻋ ﺭﻮﺠﻬﻣ ﻢﺠﻨﻣ;ﺎﻴﻟﻮﻤﻴﺗ ﻢﺠﻨﻣ.</body>
   </string>
   <string>
     <id>1061008</id>
